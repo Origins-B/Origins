@@ -13,4 +13,17 @@ float:center;
 width: 1000px;
 height: 500px;
 margin-left:150px;
+
 }
+
+#navbar{
+
+
+border-radius: 10px;
+width:1000px;
+height:100px;	
+background-color:#290CE8;
+
+float:middle;
+margin-left:150px;
+margin-top:20px;	
