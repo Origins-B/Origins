@@ -26,4 +26,16 @@ background-color:#290CE8;
 
 float:middle;
 margin-left:150px;
-margin-top:20px;	
+margin-top:20px;
+}	
+
+.nav{
+color:black;
+width: 190px;
+display: inline-block;
+text-align: center;
+margin-top:35px;
+font-size: 20px
+}
+
+
