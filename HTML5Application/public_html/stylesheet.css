@@ -4,7 +4,14 @@ background-color: #000000;
 
 .mainDiv {
     background-color: black;
-    font-size: 10px;
+    font-size: 20px;
     border-radius: 10px;
-    float: center
+
+}
+logo{
+float:center;
+width: 10px;
+height: 50px
+
+
 }
