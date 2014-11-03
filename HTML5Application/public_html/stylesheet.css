@@ -2,8 +2,21 @@
 background-color: #000000;
 }
 
-.mainDiv {
+.MainDiv {
     background-color: red;
     font-size: 20px;
     border-radius: 10px;
+}
+.Menu {
+    background-color: blue;
+    width: 10em;
+    border-radius: 10px;
+}
+.babe{
+    background-color: red;
+    width: 10em;
+    border-radius: 10px;
+}
+.body{
+    background-image: url('logoBand2.png');
 }
