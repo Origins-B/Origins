@@ -1,0 +1,29 @@
+.body{
+    background-color: greenyellow;
+}
+
+.list{
+    background-color: blue;
+    border-radius: 15px; 
+    color: background;
+    text-decoration: none;
+    width: 200px;
+    position: absolute;
+    left: 550px;
+    top: 200px;
+}
+.crop {
+    width: 300px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 15px;
+    position: absolute;
+    left: 500px;
+    top: 20px;
+}
+
+.crop img {
+    width: 300px;
+    height: 300px;
+    margin: -75px 0 0 0;
+}
