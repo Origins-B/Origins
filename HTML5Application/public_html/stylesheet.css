@@ -8,11 +8,6 @@ background-color: #000000;
     border-radius: 10px;
     width: 30em;
 }
-.Menu {
-    background-color: blue;
-    width: 10em;
-    border-radius: 10px;
-}
 .babe{
     background-color: red;
     width: 10em;
@@ -41,6 +36,7 @@ background-color: #000000;
    width: 100px;
    border-radius: 10px;
    color: red;
+   text-align: center;
 }
 .shop{
     background-color: purple;
@@ -66,4 +62,14 @@ background-color: #000000;
     left: 10px;
     top: 15px;
     text-align: center;
+}
+.Save{
+    display: none;
+    position: relative;
+    top:50px;
+}
+.Load{
+    display: none;
+    position: relative;
+    top: 60px;
 }
