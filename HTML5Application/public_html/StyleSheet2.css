@@ -27,3 +27,19 @@
     height: 300px;
     margin: -75px 0 0 0;
 }
+
+.crop2 {
+    width: 500px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 15px;
+    position: absolute;
+    left: 430px;
+    top: 300px;
+}
+
+.crop2 img {
+    width: 500px;
+    height: 350px;
+    margin: -75px 0 -30px 0;
+}
